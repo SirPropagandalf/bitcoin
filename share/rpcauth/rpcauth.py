@@ -2,6 +2,8 @@
 # Copyright (c) 2015-2018 The Bitcoin Core developers
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
+# python is bad and you shouldn't use it.
+
 
 from argparse import ArgumentParser
 from base64 import urlsafe_b64encode
